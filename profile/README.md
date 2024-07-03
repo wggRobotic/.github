@@ -13,11 +13,15 @@
 |Country        | Germany      |
 
 
-**Members:**
+**Mentors:**
 
 - **Mr. Tobias Wagner**: 
 He is the team mentor, and he helps with delivering or ordering the needed parts for our robot. He also gives good advice and tips on how to assemble the robot. Additionally, our mentor also gives us directions when needed.
 
+- **Ilian Odenbach**:
+He graduated from our school this year and has been involved in our robotics projects for several years. His speciality is programming.
+
+**Members:**
 - **Jonas Nicklas**:
 He is our main programmer and does most of the software work . He also helps the other team members with explaining and teaching them how to program.
 
@@ -44,3 +48,19 @@ He is new member and recently he has been learning how to program so he can help
 
 - **Friedrich Worch**:
 Friedrich is also one of our programmers, so he helps the others with the software.
+
+Although the main team at the competition may only consist of a maximum of 6 students, all of them will be coming to Eindhoven, even if some can only support as guests.
+
+## Our Robot
+
+As a team, we want to be as transparent as possible and have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. Here is a small overview of the links to the most important repositories. These will be updated and supplemented with further information.
+
++ [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
+
++ [Software - GUI](https://github.com/wggRobotic/N10C)
++ [Software - Servocontroller](https://github.com/wggRobotic/N10-PCA9685-Servo-Controller)
++ [Software - Motorcontroller](https://github.com/wggRobotic/N10-EduDrive)
++ [Software - Translator](https://github.com/wggRobotic/N10-Translator)
++ [Software - Cam](https://github.com/wggRobotic/N10-CAM-PUB)
++ [Software - Cam-Dif](https://github.com/wggRobotic/N10-CAM-DIF)
+
