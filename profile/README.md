@@ -41,7 +41,6 @@ Dalea focused on taking care of the logistics and organizes the TDP. She also he
 Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. Additionally, she aided with designing the T-shirts. If help is needed with the hardware, she lends a helping hand. 
 
 - **Simon Sturm**:
-
 Simon’s job is to work on the hardware with Florian Hierl and constructing the robot arm.
 
 - **Christopher Zech**:
