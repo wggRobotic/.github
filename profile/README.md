@@ -41,6 +41,7 @@ Dalea focused on taking care of the logistics and organizes the TDP. She also he
 Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. Additionally, she aided with designing the T-shirts. If help is needed with the hardware, she lends a helping hand. 
 
 - **Simon Sturm**:
+
 Simon’s job is to work on the hardware with Florian Hierl and constructing the robot arm.
 
 - **Christopher Zech**:
@@ -50,6 +51,18 @@ Since he is quite talented and interested in math and programming, he focused on
 Friedrich is also one of our programmers, so he helps the others with the software and spend his time on developing the code for our robot. 
 
 Although the main team at the competition may only consist of a maximum of 6 students, all of them will be coming to Eindhoven, even if some can only support as guests.
+
+## Our School
+
+![WGG2](https://github.com/wggRobotic/.github/assets/120591442/5a6a1017-aaa8-4f51-a416-ad4f99746f07)
+
+[Willibald-Gluck-Gymnasium Neumarkt](https://www.wgg-neumarkt.de/)
+
+Woffenbacher Straße 33
+
+92318 Neumarkt 
+
+Bavaria Germany
 
 ## Our Robot
 
