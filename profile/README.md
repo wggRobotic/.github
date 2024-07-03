@@ -23,7 +23,7 @@ He graduated from our school this year and has been involved in our robotics pro
 
 **Members:**
 - **Jonas Nicklas**:
-He is our main programmer and does most of the software work . He also helps the other team members with explaining and teaching them how to program.
+He is our main programmer and does most of the software work . He also helps the other team members with explaining and teaching them how to code.
 
 - **Florian Schäff**:
 He focuses on making the 3D design of the chassis of our robot He also helps Florian and Luca with building the robot.
@@ -35,19 +35,19 @@ He mostly works on the mechanical aspect of our robot Currently he is focusing o
 Luca is mostly working on the hardware, but he always lends a helping hand where it is needed.
 
 - **Dalea Badri**:
-Dalea takes care of most of the logistics and also organizes papers and translating them. She also helped designing our T-shirts with Fiona and another friend. She also helps with the hardware when needed.
+Dalea focused on taking care of the logistics and organizes the TDP. She also helped designing our T-shirts with Fiona and another friend. Furthermore, she helps with the hardware when needed. 
 
 - **Fiona Schäff**:
-She also helps out with the logistics and helps Dalea with translating. Additionally, she also assisted with designing the T-shirts. If needed with the hardware, she lends a helping hand
+Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. Additionally, she aided with designing the T-shirts. If help is needed with the hardware, she lends a helping hand. 
 
 - **Simon Sturm**:
-He is also mostly working on the hardware with Florian Hierl
+Simon’s job is to work on the hardware with Florian Hierl and constructing the robot arm.
 
 - **Christopher Zech**:
-He is new member and recently he has been learning how to program so he can help.
+Since he is quite talented and interested in math and programming, he focused on all informatics and mathematical aspects as well as programming and the software. He works closely together with Friedrich and Jonas. 
 
 - **Friedrich Worch**:
-Friedrich is also one of our programmers, so he helps the others with the software.
+Friedrich is also one of our programmers, so he helps the others with the software and spend his time on developing the code for our robot. 
 
 Although the main team at the competition may only consist of a maximum of 6 students, all of them will be coming to Eindhoven, even if some can only support as guests.
 
@@ -55,6 +55,7 @@ Although the main team at the competition may only consist of a maximum of 6 stu
 
 As a team, we want to be as transparent as possible and have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. Here is a small overview of the links to the most important repositories. These will be updated and supplemented with further information.
 
++ [TDM](https://github.com/wggRobotic/N10-Robot)
 + [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
 
 + [Software - GUI](https://github.com/wggRobotic/N10C)
