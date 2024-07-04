@@ -77,3 +77,14 @@ As a team, we want to be as transparent as possible and have decided to make all
 + [Software - Cam](https://github.com/wggRobotic/N10-CAM-PUB)
 + [Software - Cam-Dif](https://github.com/wggRobotic/N10-CAM-DIF)
 
+
+## N-10 is alive 
+
+https://github.com/wggRobotic/.github/assets/120591442/5d80d2d2-a150-4501-a7a2-787e2e8cfe9d
+
+
+https://github.com/wggRobotic/.github/assets/120591442/e944dfcd-308b-43ab-a482-018e04e4b8ce
+
+
+
+
