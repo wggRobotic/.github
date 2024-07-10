@@ -85,6 +85,12 @@ https://github.com/wggRobotic/.github/assets/120591442/5d80d2d2-a150-4501-a7a2-7
 
 https://github.com/wggRobotic/.github/assets/120591442/e944dfcd-308b-43ab-a482-018e04e4b8ce
 
+## The arm is moving
+
+https://github.com/wggRobotic/.github/assets/120591442/fc6a87b9-1572-44e3-bfca-a64c60b1a6ae
+
+
+
 
 
 
