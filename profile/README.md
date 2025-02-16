@@ -70,7 +70,7 @@ Tobias is relativly new in this team, but he and Sophia are working on the arm a
 
 We work as a team on all our robotic projects. At this time we have four projectes at different states of progression.
 
-- Our Rover - N10
+- [Our Rover - N10](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
 - Our Robo Dog - Idefix
 - Our SLAM-Testplattform - noname
 - the humanoid Robot Ellie (loaned from the TH Nuremberg)
@@ -98,9 +98,11 @@ Our rover N10 did take part in the RoboCup World Championship 2024 in Eindhoven 
 + [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
 
 
-The lessons we learned in Eindhoven were incorparteted into our new rover-design. We have a completly new desigend modular main body. The rocker-bogie-suspension is mostly the same, but some tweaks in the models and a diffrent 3D-printing method made the parts much more durable. The robotic arm and gripper have also a new design 
+The lessons we learned in Eindhoven were incorparteted into our new rover-design. We have a completly new desigend modular main body. The rocker-bogie-suspension is mostly the same, but some tweaks in the models and a diffrent 3D-printing method made the parts much more durable. The robotic arm and gripper have also a new design.
 
+All components, a list of the parts etc. can be found here: [N10_v.4.0](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
 
+Software here:
 + [Software - GUI](https://github.com/wggRobotic/N10C)
 + [Software - Servocontroller](https://github.com/wggRobotic/N10-PCA9685-Servo-Controller)
 + [Software - Motorcontroller](https://github.com/wggRobotic/N10-EduDrive)
