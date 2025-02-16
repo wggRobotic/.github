@@ -88,12 +88,18 @@ Woffenbacher Straße 33
 
 Bavaria Germany
 
-## Our Robot
+## Our rover - N10
 
 As a team, we want to be as transparent as possible and have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. Here is a small overview of the links to the most important repositories. These will be updated and supplemented with further information.
 
+Our rover N10 did take part in the RoboCup World Championship 2024 in Eindhoven in the RMRC-league (Rapidly Manufactured Robot Challenge). This was the first real competition for our newly founded team. The rover - model was desigend and build in under two months, so we encounterd some difficulties. Our old TDM (Team Discription Material) and the old the design can be found in the following links:
+
 + [TDM](https://github.com/wggRobotic/N10-Robot)
 + [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
+
+
+The lessons we learned in Eindhoven were incorparteted into our new rover-design. We have a completly new desigend modular main body. The rocker-bogie-suspension is mostly the same, but some tweaks in the models and a diffrent 3D-printing method made the parts much more durable. The robotic arm and gripper have also a new design 
+
 
 + [Software - GUI](https://github.com/wggRobotic/N10C)
 + [Software - Servocontroller](https://github.com/wggRobotic/N10-PCA9685-Servo-Controller)
@@ -102,17 +108,20 @@ As a team, we want to be as transparent as possible and have decided to make all
 + [Software - Cam](https://github.com/wggRobotic/N10-CAM-PUB)
 + [Software - Cam-Dif](https://github.com/wggRobotic/N10-CAM-DIF)
 
-
-## N-10 is alive 
+# Some impressions from last year:
+**N-10 is alive**
 
 https://github.com/wggRobotic/.github/assets/120591442/5d80d2d2-a150-4501-a7a2-787e2e8cfe9d
 
 
 https://github.com/wggRobotic/.github/assets/120591442/e944dfcd-308b-43ab-a482-018e04e4b8ce
 
-## The arm is moving
+**The arm is moving**
 
 https://github.com/wggRobotic/.github/assets/120591442/fc6a87b9-1572-44e3-bfca-a64c60b1a6ae
+
+## Our robo dog - Idefix
+
 
 
 
