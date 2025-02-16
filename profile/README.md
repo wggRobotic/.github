@@ -7,8 +7,8 @@
 
 |  |  |
 |-----:|-----------|
-|Team name     | Die Enten  |
-|Name of robot |   N 10    |
+|Team name     | WGG Robotics  |
+|Name of robots |   N 10  and Idefix  |
 |School        | Willibald-Gluck-Gymnasium Neumarkt      |
 |Country        | Germany      |
 
@@ -18,8 +18,8 @@
 - **Mr. Tobias Wagner**: 
 He is the team mentor, and he helps with delivering or ordering the needed parts for our robot. He also gives good advice and tips on how to assemble the robot. Additionally, our mentor also gives us directions when needed.
 
-- **Ilian Odenbach**:
-He graduated from our school this year and has been involved in our robotics projects for several years. His speciality is programming.
+- **Antonello Pastore**:
+- **Raffael Pöggel**:
 
 **Members:**
 - **Jonas Nicklas**:
@@ -28,28 +28,53 @@ He is our main programmer and does most of the software work . He also helps the
 - **Florian Schäff**:
 He focuses on making the 3D design of the chassis of our robot He also helps Florian and Luca with building the robot.
 
-- **Florian Hierl**:
-He mostly works on the mechanical aspect of our robot Currently he is focusing on making the robot arm.
+- **Tamina Gruber**:
+She mostly works on the mechanical aspect of our robo dog. Currently she is focusing on the paws.
 
 - **Luca Zylla**:
-Luca is mostly working on the hardware, but he always lends a helping hand where it is needed.
+Luca is mostly working on the hardware in our rover, but he always lends a helping hand where it is needed.
 
 - **Dalea Badri**:
-Dalea focused on taking care of the logistics and organizes the TDP. She also helped designing our T-shirts with Fiona and another friend. Furthermore, she helps with the hardware when needed. 
+Dalea focused on taking care of the logistics and organizes the TDP. She also in charge of our social media accounts.
 
 - **Fiona Schäff**:
-Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. Additionally, she aided with designing the T-shirts. If help is needed with the hardware, she lends a helping hand. 
+Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. If help is needed with the hardware, she lends a helping hand. She overlooking the whole team.
 
-- **Simon Sturm**:
-Simon’s job is to work on the hardware with Florian Hierl and constructing the robot arm.
+- **Lino Odenbach**:
+Lino’s job is to work on the hardware with Florian Schäff and constructing the rover.
 
 - **Christopher Zech**:
-Since he is quite talented and interested in math and programming, he focused on all informatics and mathematical aspects as well as programming and the software. He works closely together with Friedrich and Jonas. 
+Since he is quite talented and interested in math and programming, he focused on all informatics and mathematical aspects as well as programming and the software. He works closely together with Friedrich, Jonas and Daniel
 
 - **Friedrich Worch**:
 Friedrich is also one of our programmers, so he helps the others with the software and spend his time on developing the code for our robot. 
 
-Although the main team at the competition may only consist of a maximum of 6 students, all of them will be coming to Eindhoven, even if some can only support as guests.
+- **Caja Wetzler**:
+Caja is interested in CAD-Design. Together with Dalea, she is in charge of social media and contacts sponsors.
+
+- **Anton Mackh**:
+Anton is a problemsolver. He can design CAD-Models and is working on the robotic arm for our rover.
+
+- **Daniel Schmid**:
+Daniel is also one of our programmers, so he helps the others with the software and espically for our rover.
+
+- **Leon Eckstein**:
+Friedrich is also one of our programmers, so he helps the others with the software and spend his time on developing the code for our robot.
+
+- **Sophia Riemann**:
+Sophia is relativly new in this team, but she and Tobias are working on the arm and gripper for our rover.
+
+- **Tobias Hackl**:
+Tobias is relativly new in this team, but he and Sophia are working on the arm and gripper for our rover.
+
+
+We work as a team on all our robotic projects. At this time we have four projectes at different states of progression.
+
+- Our Rover - N10
+- Our Robo Dog - Idefix
+- Our SLAM-Testplattform - noname
+- the humanoid Robot Ellie (loaned from the TH Nuremberg)
+
 
 ## Our School
 
