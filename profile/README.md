@@ -71,7 +71,7 @@ Tobias is relativly new in this team, but he and Sophia are working on the arm a
 We work as a team on all our robotic projects. At this time we have four projectes at different states of progression.
 
 - [Our Rover - N10](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
-- Our Robo Dog - Idefix
+- [Our Robo Dog - Idefix](https://github.com/wggRobotic/CAD-Files-Idefix)
 - Our SLAM-Testplattform - noname
 - the humanoid Robot Ellie (loaned from the TH Nuremberg)
 
@@ -92,13 +92,17 @@ Bavaria Germany
 
 As a team, we want to be as transparent as possible and have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. Here is a small overview of the links to the most important repositories. These will be updated and supplemented with further information.
 
-Our rover N10 did take part in the RoboCup World Championship 2024 in Eindhoven in the RMRC-league (Rapidly Manufactured Robot Challenge). This was the first real competition for our newly founded team. The rover - model was desigend and build in under two months, so we encounterd some difficulties. Our old TDM (Team Discription Material) and the old the design can be found in the following links:
+Our rover, N10, participated in the RoboCup World Championship 2024 in Eindhoven in the RMRC league (Rapidly Manufactured Robot Challenge). This was the first real competition for our newly founded team.
+
+The rover was designed and built in under two months, which led to some challenges along the way. Our previous TDM (Team Description Material) and the original design can be found in the following links:
 
 + [TDM](https://github.com/wggRobotic/N10-Robot)
 + [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
 
 
-The lessons we learned in Eindhoven were incorparteted into our new rover-design. We have a completly new desigend modular main body. The rocker-bogie-suspension is mostly the same, but some tweaks in the models and a diffrent 3D-printing method made the parts much more durable. The robotic arm and gripper have also a new design.
+The lessons we learned in Eindhoven were incorporated into our new rover design. We developed a completely new modular main body. While the rocker-bogie suspension remains largely the same, adjustments to the models and a different 3D-printing method have significantly improved the durability of the parts. Additionally, both the robotic arm and gripper feature a new design.
+
+![New_Design](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/Rover_Render.png)
 
 All components, a list of the parts etc. can be found here: [N10_v.4.0](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
 
@@ -110,7 +114,23 @@ Software here:
 + [Software - Cam](https://github.com/wggRobotic/N10-CAM-PUB)
 + [Software - Cam-Dif](https://github.com/wggRobotic/N10-CAM-DIF)
 
-# Some impressions from last year:
+## Our robo dog - Idefix
+Together with Antonello and Raffael, the wggRobotics team had long wanted to build a robotic dog. This year, we finally made it happen! 
+
+Our insperiation came from [Spot](https://bostondynamics.com/products/spot/) by Boston Dynamics and the open-source project [SpotMicro](https://spotmicroai.readthedocs.io/en/latest/).  After initial tests during Consumenta 2024 in Nuremberg, we decided to redesign the dog and use different servo motors.
+
+And now, here is our Idefix!
+![Render_picture](https://github.com/wggRobotic/CAD-Files-Idefix/blob/main/Render.png)
+
+All components, a list of the parts etc. can be found here: [Hardware](https://github.com/wggRobotic/CAD-Files-Idefix)
+
+Software here:
+
+
+## Some impressions of this years building progress:
+
+
+## Some impressions from last year:
 **N-10 is alive**
 
 https://github.com/wggRobotic/.github/assets/120591442/5d80d2d2-a150-4501-a7a2-787e2e8cfe9d
@@ -122,7 +142,7 @@ https://github.com/wggRobotic/.github/assets/120591442/e944dfcd-308b-43ab-a482-0
 
 https://github.com/wggRobotic/.github/assets/120591442/fc6a87b9-1572-44e3-bfca-a64c60b1a6ae
 
-## Our robo dog - Idefix
+
 
 
 
