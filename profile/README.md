@@ -26,7 +26,7 @@ He is the team mentor, and he helps with delivering or ordering the needed parts
 He is our main programmer and does most of the software work . He also helps the other team members with explaining and teaching them how to code.
 
 - **Florian Schäff**:
-He focuses on making the 3D design of the chassis of our robot He also helps Florian and Luca with building the robot.
+He focuses on making the 3D design of the chassis of our robot He also helps Lino and Luca with building the robot.
 
 - **Tamina Gruber**:
 She mostly works on the mechanical aspect of our robo dog. Currently she is focusing on the paws.
@@ -35,10 +35,10 @@ She mostly works on the mechanical aspect of our robo dog. Currently she is focu
 Luca is mostly working on the hardware in our rover, but he always lends a helping hand where it is needed.
 
 - **Dalea Badri**:
-Dalea focused on taking care of the logistics and organizes the TDP. She also in charge of our social media accounts.
+Dalea focused on taking care of the logistics and organizes the TDP. She also is in charge of our social media accounts.
 
 - **Fiona Schäff**:
-Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. If help is needed with the hardware, she lends a helping hand. She overlooking the whole team.
+Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. If help is needed with the hardware, she lends a helping hand. She is overlooking the whole team.
 
 - **Lino Odenbach**:
 Lino’s job is to work on the hardware with Florian Schäff and constructing the rover.
@@ -56,16 +56,19 @@ Caja is interested in CAD-Design. Together with Dalea, she is in charge of socia
 Anton is a problemsolver. He can design CAD-Models and is working on the robotic arm for our rover.
 
 - **Daniel Schmid**:
-Daniel is also one of our programmers, so he helps the others with the software and espically for our rover.
+Daniel is also one of our programmers, so he helps the others with the software and especially for our rover.
 
 - **Leon Eckstein**:
-Friedrich is also one of our programmers, so he helps the others with the software and spend his time on developing the code for our robot.
+Leon, Tamina, and Lennard are working together on the paw of our robotic dog.
+
+- **Lennard Vogeler**:
+Lennard is someone who has a strong interest in all areas of robotics. Currently, he is working on the foot of our robotic dog.
 
 - **Sophia Riemann**:
-Sophia is relativly new in this team, but she and Tobias are working on the arm and gripper for our rover.
+Sophia is relatively new in this team, but she and Tobias are working on the arm and gripper for our rover.
 
 - **Tobias Hackl**:
-Tobias is relativly new in this team, but he and Sophia are working on the arm and gripper for our rover.
+Tobias is relatively new in this team, but he and Sophia are working on the arm and gripper for our rover.
 
 
 We work as a team on all our robotic projects. At this time we have four projectes at different states of progression.
