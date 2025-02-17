@@ -128,6 +128,10 @@ Software here:
 
 
 ## Some impressions of this years building progress:
+![Bild1](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4861.jpg)
+
+![Bild2](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4863.jpg)
+
 
 
 ## Some impressions from last year:
