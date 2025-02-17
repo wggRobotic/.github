@@ -35,7 +35,7 @@ She mostly works on the mechanical aspect of our robo dog. Currently she is focu
 Luca is mostly working on the hardware of our rover, but he always lends a helping hand where it is needed.
 
 - **Dalea Badri**:
-Dalea focuses on taking care of the logistics and organizes the TDP. She also is in charge of our social media account.
+Dalea focuses on taking care of the logistics and organizes the TDP. She is also in charge of our social media account.
 
 - **Fiona Schäff**:
 Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. If help is needed with the hardware, she lends a hand. She overlookes the whole team.
@@ -44,7 +44,7 @@ Fiona’s emphasis is on the logistics as well and she handles the TDP together 
 Lino’s job is to work on the hardware with Florian Schäff and constructing the rover.
 
 - **Christopher Zech**:
-Since he is quite talented and interested in math and programming, he is focused on all informatics and mathematical aspects as well as programming and the software. He works closely together with Friedrich, Jonas and Daniel.
+Since he is quite talented and interested in math and programming, he focuses on all the informatics and mathematical aspects as well as programming and the software. He works closely together with Friedrich, Jonas and Daniel.
 
 - **Friedrich Worch**:
 Friedrich is also one of our programmers, so he helps the others with the software and spend his time on developing the code for our robot. 
