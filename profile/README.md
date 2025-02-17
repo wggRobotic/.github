@@ -15,7 +15,7 @@
 
 **Mentors:**
 
-- **Mr. Tobias Wagner**: 
+- **Tobias Wagner**: 
 He is the team mentor, and he helps with delivering or ordering the needed parts for our robot. He also gives good advice and tips on how to assemble the robot. Additionally, our mentor also gives us directions when needed.
 
 - **Antonello Pastore**:
