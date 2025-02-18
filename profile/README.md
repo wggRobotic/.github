@@ -11,6 +11,7 @@
 |Name of robots |   N 10  and Idefix  |
 |School        | Willibald-Gluck-Gymnasium Neumarkt      |
 |Country        | Germany      |
+|Instagram | [wgg_Robotik](https://www.instagram.com/wgg_robotik/) |
 
 
 **Mentors:**
