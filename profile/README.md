@@ -39,7 +39,7 @@ Luca is mostly working on the hardware of our rover, but he always lends a helpi
 Dalea focuses on taking care of the logistics and organizes the TDP. She is also in charge of our social media account.
 
 - **Fiona Schäff**:
-Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea too. If help is needed with the hardware, she lends a hand. She overlookes the whole team.
+Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea, too. If help is needed with the hardware, she lends a hand. She overlookes the whole team.
 
 - **Lino Odenbach**:
 Lino’s job is to work on the hardware with Florian Schäff and constructing the rover.
