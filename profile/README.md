@@ -1,5 +1,5 @@
 ---
-# Welcome to the Github account of the robotics team from Willibald Gluck Gymnasium Neumarkt (Germany).
+# Welcome to the Github account of the robotics team from the Willibald Gluck Gymnasium Neumarkt (Germany).
 --- 
 ![Logo](https://github.com/wggRobotic/.github/assets/120591442/71076e2b-45c4-4d95-84df-6dd16ad28a9a)
 
