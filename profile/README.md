@@ -111,7 +111,7 @@ The lessons we learned in Eindhoven were incorporated into our new rover design.
 All components, a list of the parts etc. can be found here: [N10_v.4.0](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
 
 Software is here:
-+ [Software - GUI](https://github.com/wggRobotic/N10C)
++ [Software - GUI](https://github.com/wggRobotic/guiniverse)
 + [Software - Servocontroller](https://github.com/wggRobotic/N10-PCA9685-Servo-Controller)
 + [Software - Motorcontroller](https://github.com/wggRobotic/N10-EduDrive)
 + [Software - Translator](https://github.com/wggRobotic/N10-Translator)
@@ -129,7 +129,8 @@ And now, here is our Idefix!
 All components, a list of the parts etc. can be found here: [Hardware](https://github.com/wggRobotic/CAD-Files-Idefix)
 
 Software here:
-
+[RoboDog](https://github.com/wggRobotic/Robodog)
+[Based on SpotMircoAI](https://github.com/wggRobotic/Idefix)
 
 ## Some impressions of this years building progress:
 ![Bild1](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4861.jpg)
