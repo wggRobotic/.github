@@ -132,6 +132,30 @@ Software here:
 [RoboDog](https://github.com/wggRobotic/Robodog)
 [Based on SpotMircoAI](https://github.com/wggRobotic/Idefix)
 
+## SLAM-Testplattform
+
+Our test robot, "noname," serves as a platform for evaluating various additional modules, including LIDAR, AI cameras, and depth perception sensors. The ultimate goal of this project is to develop an autonomous navigation system capable of real-time environmental mapping and decision-making.
+
+![noname2](https://github.com/user-attachments/assets/4da282e3-69ae-44ec-abcb-da059e96ab5f)
+
+### Core Components
+
+To achieve these objectives, "noname" is equipped with state-of-the-art hardware:
+
+- OAK-1-Lite W Camera – An AI-powered vision system for object detection and recognition.
+
+- Intel RealSense D435 – A depth camera providing precise 3D perception.
+
+- Slamtec RPLIDAR C1 – A high-precision LIDAR sensor for mapping and obstacle detection.
+
+- Siemens IPC127E – A robust industrial PC handling data processing and computational tasks.
+
+### Project Goals
+
+The primary focus of "noname" is to test and integrate these technologies for efficient autonomous navigation. By leveraging sensor fusion and advanced algorithms, the robot will be able to generate accurate maps of its environment and navigate without human intervention.
+
+With further development, "noname" will contribute to research in autonomous robotics and intelligent mobility solutions.
+
 ## Some impressions of this years building progress:
 ![Bild1](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4861.jpg)
 
