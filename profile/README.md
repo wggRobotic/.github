@@ -163,6 +163,14 @@ With further development, "noname" will contribute to research in autonomous rob
 
 
 
+
+https://github.com/user-attachments/assets/cde84632-6dcd-4fc6-ab26-58e473acf27c
+
+
+
+https://github.com/user-attachments/assets/b2058a91-13ac-4f60-ae79-b801f5b2d1aa
+
+
 ## Some impressions from last year:
 **N-10 is alive**
 
