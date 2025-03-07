@@ -164,7 +164,9 @@ With further development, "noname" will contribute to research in autonomous rob
 
 
 
-https://github.com/user-attachments/assets/cde84632-6dcd-4fc6-ab26-58e473acf27c
+
+
+https://github.com/user-attachments/assets/12c9b8ec-2941-46bf-9695-673f16e78a47
 
 
 
