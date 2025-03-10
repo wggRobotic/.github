@@ -161,16 +161,13 @@ With further development, "noname" will contribute to research in autonomous rob
 
 ![Bild2](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4863.jpg)
 
-
-
-
-
-
 https://github.com/user-attachments/assets/12c9b8ec-2941-46bf-9695-673f16e78a47
 
-
-
 https://github.com/user-attachments/assets/b2058a91-13ac-4f60-ae79-b801f5b2d1aa
+
+https://github.com/user-attachments/assets/adbed18d-dd04-403e-a9ff-ff6170b28d28
+
+https://github.com/user-attachments/assets/556958c1-1f1c-4b2d-a9cf-4652c63c2d24
 
 
 ## Some impressions from last year:
