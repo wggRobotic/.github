@@ -12,7 +12,7 @@
 |School        | Willibald-Gluck-Gymnasium Neumarkt      |
 |Country        | Germany      |
 |Instagram | [wgg_Robotik](https://www.instagram.com/wgg_robotik/) |
-
+|email contact     | robotik@wgg-neumarkt.de  |
 
 **Mentors:**
 
