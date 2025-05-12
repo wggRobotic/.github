@@ -130,7 +130,6 @@ All components, a list of the parts etc. can be found here: [Hardware](https://g
 
 Software here:
 [RoboDog](https://github.com/wggRobotic/Robodog)
-[Based on SpotMircoAI](https://github.com/wggRobotic/Idefix)
 
 ## SLAM-Testplattform
 
