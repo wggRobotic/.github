@@ -74,6 +74,9 @@ Tobias is also relatively new in this team, but he and Sophia are working on the
 
 We work as a team on all our robotic projects. Right now we have four projectes, which are at different states of progression.
 
+![PXL_20250316_104511655](https://github.com/user-attachments/assets/355cd2eb-5ce6-4adf-9505-51f34e6a8cf7)
+
+
 - [Our Rover - N10](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
 - [Our Robo Dog - Idefix](https://github.com/wggRobotic/CAD-Files-Idefix)
 - Our SLAM-Testplattform - noname
@@ -118,6 +121,8 @@ Software is here:
 + [Software - Cam](https://github.com/wggRobotic/N10-CAM-PUB)
 + [Software - Cam-Dif](https://github.com/wggRobotic/N10-CAM-DIF)
 
+![PXL_20250316_104922973](https://github.com/user-attachments/assets/5a1f4b3d-9240-4e39-8d79-b08e455e59ed)
+
 ## Our robo dog - Idefix
 Together with Antonello and Raffael, the wggRobotics team had long wanted to build a robotic dog. This year, we finally made it happen! 
 
@@ -130,6 +135,12 @@ All components, a list of the parts etc. can be found here: [Hardware](https://g
 
 Software here:
 [RoboDog](https://github.com/wggRobotic/Robodog)
+
+
+
+https://github.com/user-attachments/assets/3ce6da89-32ee-4619-8f60-831c08065a4c
+
+
 
 ## SLAM-Testplattform
 
@@ -155,10 +166,7 @@ The primary focus of "noname" is to test and integrate these technologies for ef
 
 With further development, "noname" will contribute to research in autonomous robotics and intelligent mobility solutions.
 
-## Some impressions of this years building progress:
-![Bild1](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4861.jpg)
-
-![Bild2](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/IMG_4863.jpg)
+## Some impressions of this year:
 
 https://github.com/user-attachments/assets/12c9b8ec-2941-46bf-9695-673f16e78a47
 
@@ -167,6 +175,14 @@ https://github.com/user-attachments/assets/b2058a91-13ac-4f60-ae79-b801f5b2d1aa
 https://github.com/user-attachments/assets/adbed18d-dd04-403e-a9ff-ff6170b28d28
 
 https://github.com/user-attachments/assets/556958c1-1f1c-4b2d-a9cf-4652c63c2d24
+
+
+https://github.com/user-attachments/assets/2dd72708-536b-4db9-812a-86dcd8f2101b
+
+https://github.com/user-attachments/assets/87338a22-1832-4732-9fc9-d66f5ca65751
+
+https://github.com/user-attachments/assets/c77c3a6f-25b2-4485-90a8-084a5e76c71a
+
 
 
 ## Some impressions from last year:
