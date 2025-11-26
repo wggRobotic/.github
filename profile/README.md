@@ -1,18 +1,21 @@
 ---
 # Welcome to the Github account of the robotics team from the Willibald Gluck Gymnasium Neumarkt (Germany).
 --- 
-![Logo](https://github.com/wggRobotic/.github/assets/120591442/71076e2b-45c4-4d95-84df-6dd16ad28a9a)
+![Logo](../assets/logo.jpg)
 
-## About us
+
+# About us
 
 |  |  |
 |-----:|-----------|
-|Team name     | WGG Robotics  |
-|Name of robots |   N 10  and Idefix  |
-|School        | Willibald-Gluck-Gymnasium Neumarkt      |
+|Team name     | wggRobotics |
+|Name of robots | N10, Idefix and Quac |
+|School        | Willibald-Gluck-Gymnasium Neumarkt i. d. OPf.|
 |Country        | Germany      |
 |Instagram | [wgg_Robotik](https://www.instagram.com/wgg_robotik/) |
-|email contact     | robotik@wgg-neumarkt.de  |
+|Email contact     | robotik@wgg-neumarkt.de  |
+
+## The Team
 
 **Mentors:**
 
@@ -42,20 +45,12 @@ Lino’s job is to work on the hardware with Florian Schäff and constructing th
 Since he is quite talented and interested in math and programming, he focuses on all the informatics and mathematical aspects as well as programming and the software. He works closely together with Jonas.
 
 
-We work as a team on all our robotic projects. Right now we have four projectes, which are at different states of progression.
-
-![PXL_20250316_104511655](https://github.com/user-attachments/assets/355cd2eb-5ce6-4adf-9505-51f34e6a8cf7)
-
-
-- [Our Rover - N10](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
-- [Our Robo Dog - Idefix](https://github.com/wggRobotic/CAD-Files-Idefix)
-- Our SLAM-Testplattform - noname
-- the humanoid Robot Ellie (loaned from the TH Nuremberg)
-
+![german_open_robots](../assets/german_open_robots.jpg)
+(At the Robocup German Open 2025. The robots from left to right are N10, Idefix and our former SLAM-Teststation noname)
 
 ## Our School
 
-![WGG2](https://github.com/wggRobotic/.github/assets/120591442/5a6a1017-aaa8-4f51-a416-ad4f99746f07)
+![school](../assets/school.jpg)
 
 [Willibald-Gluck-Gymnasium Neumarkt](https://www.wgg-neumarkt.de/)
 
@@ -65,13 +60,27 @@ Woffenbacher Straße 33
 
 Bavaria Germany
 
-## Our rover - N10
+# Our Robots
 
-As a team, we want to be as transparent as possible, so we have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. Here is a small overview of the links to the most important repositories. These will be updated and supplemented with further information.
+#### Everything we work on is available to the public
 
-Our rover, N10, has participated in the RoboCup World Championship 2024 in Eindhoven in the RMRC league (Rapidly Manufactured Robot Challenge). This was the first real competition for our newly founded team.
+As a team, we want to be as transparent as possible, so we have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. 
 
-The rover was designed and built in under two months, which led to some challenges along the way. Our previous TDM (Team Description Material) and the original design can be found in the following links:
+## N10 - Our rover
+
+![n10](../assets/n10.jpg)
+
+___
+
+**For more Information** click here [N10](https://github.com/wggRobotic/N10-profile)
+___
+
+
+N10 is a rover like robot based on a rocker bogie design. The 6 Wheels can turn perpendicular to the ground. The 3-segment robotic arm lays ontop on the rover in its resting position. There, the camera mounted to its gripper can function as a rear camera while driving. The main / front camera is fixed to the first segment.
+
+N10 was our robot in the RoboCup World Championship 2024 in Eindhoven in the RMRC league (Rapidly Manufactured Robot Challenge). This was the first real competition for our newly founded team.
+
+The first version was designed and built in under two months, which led to several challenges along the way and multiple problems in the actual competition. Our previous TDM (Team Description Material) for Eindhoven and the original design are available via the following links:
 
 + [TDM](https://github.com/wggRobotic/N10-Robot)
 + [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
@@ -79,27 +88,29 @@ The rover was designed and built in under two months, which led to some challeng
 
 The lessons we learned in Eindhoven were incorporated into our new rover design. We developed a completely new modular main body. While the rocker-bogie suspension remains largely the same, the adjustments to the models and a different 3D-printing method have significantly improved the durability of the parts. Additionally, both the robotic arm and gripper feature a new design.
 
-![New_Design](https://github.com/wggRobotic/CAD-Files-N10_version_4_0/blob/main/Rover_Render.png)
+![n10_rendered](../assets/n10_rendered.png)
 
 All components, a list of the parts etc. can be found here: [N10_v.4.0](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
 
 Software is here:
 + [Software - GUI](https://github.com/wggRobotic/guiniverse)
-+ [Software - Servocontroller](https://github.com/wggRobotic/N10-PCA9685-Servo-Controller)
-+ [Software - Motorcontroller](https://github.com/wggRobotic/N10-EduDrive)
-+ [Software - Translator](https://github.com/wggRobotic/N10-Translator)
-+ [Software - Cam](https://github.com/wggRobotic/N10-CAM-PUB)
-+ [Software - Cam-Dif](https://github.com/wggRobotic/N10-CAM-DIF)
++ [Software - Servocontroller](https://github.com/wggRobotic/n10_servocontroller)
++ [Software - Motorcontroller](https://github.com/wggRobotic/edu_drive_ros2_mod)
++ [Software - CamStreams](https://github.com/wggRobotic/GStreamerCamStreams)
 
-![PXL_20250316_104922973](https://github.com/user-attachments/assets/5a1f4b3d-9240-4e39-8d79-b08e455e59ed)
+## Idefix - Our robodog
 
-## Our robo dog - Idefix
-Together with Antonello and Raffael, the wggRobotics team had long wanted to build a robotic dog. This year, we finally made it happen! 
+___
+
+**For more Information** click here [Idefix](https://github.com/wggRobotic/Idefix-profile)
+___
+
+Together with Antonello and Raffael, the wggRobotics team had long wanted to build a robotic dog. This year (2024/2025), we finally made it happen! 
 
 Our insperiation came from [Spot](https://bostondynamics.com/products/spot/) by Boston Dynamics and the open-source project [SpotMicro](https://spotmicroai.readthedocs.io/en/latest/).  After initial tests during Consumenta 2024 in Nuremberg, we decided to redesign the dog and use different servo motors.
 
 And now, here is our Idefix!
-![Render_picture](https://github.com/wggRobotic/CAD-Files-Idefix/blob/main/Render.png)
+![idefix_rendered](../assets/idefix_rendered.png)
 
 All components, a list of the parts etc. can be found here: [Hardware](https://github.com/wggRobotic/CAD-Files-Idefix)
 
@@ -108,15 +119,21 @@ Software here:
 
 
 
-https://github.com/user-attachments/assets/3ce6da89-32ee-4619-8f60-831c08065a4c
+[idefix_move](../assets/idefix_move.mp4)
+
+## Quac - Our autonomous Crawler
+
+___
+
+**For more Information** click here [Quac](https://github.com/wggRobotic/Quac-profile)
+___
 
 
-
-## SLAM-Testplattform
+## NoName - Our SLAM-Teststation
 
 Our test robot, "noname," serves as a platform for evaluating various additional modules, including LIDAR, AI cameras, and depth perception sensors. The ultimate goal of this project is to develop an autonomous navigation system capable of real-time environmental mapping and decision-making.
 
-![noname2](https://github.com/user-attachments/assets/4da282e3-69ae-44ec-abcb-da059e96ab5f)
+![noname](../assets/noname.png)
 
 ### Core Components
 
@@ -138,34 +155,31 @@ With further development, "noname" will contribute to research in autonomous rob
 
 ## Some impressions of this year:
 
-https://github.com/user-attachments/assets/12c9b8ec-2941-46bf-9695-673f16e78a47
+[idefix_imp0](../assets/idefix_imp0.mp4)
 
-https://github.com/user-attachments/assets/b2058a91-13ac-4f60-ae79-b801f5b2d1aa
+[idefix_imp1](../assets/idefix_imp0.mp4)
 
-https://github.com/user-attachments/assets/adbed18d-dd04-403e-a9ff-ff6170b28d28
+[n10_imp0](../assets/n10_imp0.mp4)
 
-https://github.com/user-attachments/assets/556958c1-1f1c-4b2d-a9cf-4652c63c2d24
+[n10_imp1](../assets/n10_imp1.mp4)
 
+[n10_imp2](../assets/n10_imp2.mp4)
 
-https://github.com/user-attachments/assets/2dd72708-536b-4db9-812a-86dcd8f2101b
+[n10_imp3](../assets/n10_imp3.mp4)
 
-https://github.com/user-attachments/assets/87338a22-1832-4732-9fc9-d66f5ca65751
-
-https://github.com/user-attachments/assets/c77c3a6f-25b2-4485-90a8-084a5e76c71a
-
+[n10_imp4](../assets/n10_imp4.mp4)
 
 
 ## Some impressions from last year:
 **N-10 is alive**
 
-https://github.com/wggRobotic/.github/assets/120591442/5d80d2d2-a150-4501-a7a2-787e2e8cfe9d
+[n10_old_imp0](../assets/n10_old_imp0.mp4)
 
-
-https://github.com/wggRobotic/.github/assets/120591442/e944dfcd-308b-43ab-a482-018e04e4b8ce
+[n10_old_imp1](../assets/n10_old_imp1.mp4)
 
 **The arm is moving**
 
-https://github.com/wggRobotic/.github/assets/120591442/fc6a87b9-1572-44e3-bfca-a64c60b1a6ae
+[n10_old_imp2](../assets/n10_old_imp2.qt)
 
 
 
