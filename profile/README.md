@@ -27,7 +27,7 @@ He is the team mentor, and he helps with delivering or ordering the needed parts
 He is our main programmer and does most of the software work. He also helps the other team members by explaining and teaching them how to code.
 
 - **Florian Schäff**:
-He focuses on making the 3D design of the chassis of our robot. He also helps Lino and Luca with building the robot.
+He focuses on making the 3D design of the chassis of our robot. He also helps Lino with building the robot.
 
 - **Dalea Badri**:
 Dalea focuses on taking care of the logistics and organizes the TDP. She is also in charge of our social media account.
@@ -36,10 +36,10 @@ Dalea focuses on taking care of the logistics and organizes the TDP. She is also
 Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea, too. If help is needed with the hardware, she lends a hand. She overlookes the whole team.
 
 - **Lino Odenbach**:
-Lino’s job is to work on the hardware with Florian Schäff and constructing the rover.
+Lino’s job is to work on the hardware with Florian Schäff and constructing the robot.
 
 - **Christopher Zech**:
-Since he is quite talented and interested in math and programming, he focuses on all the informatics and mathematical aspects as well as programming and the software. He works closely together with Friedrich, Jonas and Daniel.
+Since he is quite talented and interested in math and programming, he focuses on all the informatics and mathematical aspects as well as programming and the software. He works closely together with Jonas.
 
 
 We work as a team on all our robotic projects. Right now we have four projectes, which are at different states of progression.
