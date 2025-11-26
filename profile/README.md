@@ -119,7 +119,7 @@ Software here:
 
 
 
-https://github.com/wggRobotic/.github/blob/main/assets/idefix_move.mp4
+https://github.com/user-attachments/assets/3ce6da89-32ee-4619-8f60-831c08065a4c
 
 ## Quac - Our autonomous Crawler
 
@@ -155,33 +155,35 @@ With further development, "noname" will contribute to research in autonomous rob
 
 ## Some impressions of this year:
 
-https://raw.githubusercontent.com/wggRobotic/.github/main/assets/idefix_imp0.mp4
+https://github.com/user-attachments/assets/12c9b8ec-2941-46bf-9695-673f16e78a47
 
-https://github.com/wggRobotic/.github/blob/main/assets/idefix_imp0.mp4
+https://github.com/user-attachments/assets/b2058a91-13ac-4f60-ae79-b801f5b2d1aa
 
-https://github.com/wggRobotic/.github/blob/main/assets/idefix_imp1.mp4
+https://github.com/user-attachments/assets/adbed18d-dd04-403e-a9ff-ff6170b28d28
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_imp0.mp4
+https://github.com/user-attachments/assets/556958c1-1f1c-4b2d-a9cf-4652c63c2d24
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_imp1.mp4
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_imp2.mp4
+https://github.com/user-attachments/assets/2dd72708-536b-4db9-812a-86dcd8f2101b
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_imp3.mp4
+https://github.com/user-attachments/assets/87338a22-1832-4732-9fc9-d66f5ca65751
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_imp4.mp4
+https://github.com/user-attachments/assets/c77c3a6f-25b2-4485-90a8-084a5e76c71a
+
 
 
 ## Some impressions from last year:
 **N-10 is alive**
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_old_imp0.mp4
+https://github.com/wggRobotic/.github/assets/120591442/5d80d2d2-a150-4501-a7a2-787e2e8cfe9d
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_old_imp1.mp4
+
+https://github.com/wggRobotic/.github/assets/120591442/e944dfcd-308b-43ab-a482-018e04e4b8ce
 
 **The arm is moving**
 
-https://github.com/wggRobotic/.github/blob/main/assets/n10_old_imp2.qt
+https://github.com/wggRobotic/.github/assets/120591442/fc6a87b9-1572-44e3-bfca-a64c60b1a6ae
+
 
 
 
