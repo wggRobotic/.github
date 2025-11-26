@@ -119,7 +119,7 @@ Software here:
 
 
 
-[idefix_move](../assets/idefix_move.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/idefix_move.mp4
 
 ## Quac - Our autonomous Crawler
 
@@ -155,31 +155,31 @@ With further development, "noname" will contribute to research in autonomous rob
 
 ## Some impressions of this year:
 
-[idefix_imp0](../assets/idefix_imp0.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/idefix_imp0.mp4
 
-[idefix_imp1](../assets/idefix_imp0.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/idefix_imp1.mp4
 
-[n10_imp0](../assets/n10_imp0.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_imp0.mp4
 
-[n10_imp1](../assets/n10_imp1.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_imp1.mp4
 
-[n10_imp2](../assets/n10_imp2.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_imp2.mp4
 
-[n10_imp3](../assets/n10_imp3.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_imp3.mp4
 
-[n10_imp4](../assets/n10_imp4.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_imp4.mp4
 
 
 ## Some impressions from last year:
 **N-10 is alive**
 
-[n10_old_imp0](../assets/n10_old_imp0.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_old_imp0.mp4
 
-[n10_old_imp1](../assets/n10_old_imp1.mp4)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_old_imp1.mp4
 
 **The arm is moving**
 
-[n10_old_imp2](../assets/n10_old_imp2.qt)
+https://github.com/wggRobotic/.github/blob/main/assets/n10_old_imp2.qt
 
 
 
