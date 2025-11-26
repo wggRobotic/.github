@@ -155,6 +155,8 @@ With further development, "noname" will contribute to research in autonomous rob
 
 ## Some impressions of this year:
 
+https://raw.githubusercontent.com/wggRobotic/.github/main/assets/idefix_imp0.mp4
+
 https://github.com/wggRobotic/.github/blob/main/assets/idefix_imp0.mp4
 
 https://github.com/wggRobotic/.github/blob/main/assets/idefix_imp1.mp4
