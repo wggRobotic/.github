@@ -3,46 +3,25 @@
 --- 
 ![Logo](../assets/logo.jpg)
 
+Welcome to the GitHub account of **WGG Robotics**, the student robotics team of **Willibald-Gluck-Gymnasium Neumarkt (Germany)**.
 
-# About us
+We design, build and program our own mobile robots and compete in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** and other robotics events.
 
-|  |  |
-|-----:|-----------|
-|Team name     | wggRobotics |
-|Name of robots | N10, Idefix and Quac |
-|School        | Willibald-Gluck-Gymnasium Neumarkt i. d. OPf.|
-|Country        | Germany      |
-|Instagram | [wgg_Robotik](https://www.instagram.com/wgg_robotik/) |
-|Email contact     | robotik@wgg-neumarkt.de  |
+For full documentation, please visit our  **[WGG Robotics Documentation Wiki](https://github.com/wggRobotic/team-docs/wiki).**
 
-## The Team
+## Who we are
 
-**Mentors:**
+- **Team name:** WGG Robotics  
+- **School:** Willibald-Gluck-Gymnasium Neumarkt, Bavaria, Germany  
+- **Focus:** Rescue robotics, autonomous navigation, rovers, quadrupeds & crawlers  
+- **Members:** motivated students from different grades  
+- **Mentors:** teachers and external partners supporting hardware, software & project work
 
-- **Tobias Wagner**: 
-He is the team mentor, and he helps with delivering or ordering the needed parts for our robot. He also gives good advice and tips on how to assemble the robot. Additionally, our mentor also gives us directions when needed.
 
-- **Antonello Pastore**:
-- **Raffael Pöggel**:
+We mainly work in our school’s **Makerspace**, using 3D printers, electronics and CAD/simulation tools to prototype and improve our robots.
+More background: [About WGG Robotics](https://github.com/wggRobotic/team-docs/wiki/About-WGG-Robotics)
 
-**Members:**
-- **Jonas Nicklas**:
-He is our main programmer and does most of the software work. He also helps the other team members by explaining and teaching them how to code.
 
-- **Florian Schäff**:
-He focuses on making the 3D design of the chassis of our robot. He also helps Lino with building the robot.
-
-- **Dalea Badri**:
-Dalea focuses on taking care of the logistics and organizes the TDP. She is also in charge of our social media account.
-
-- **Fiona Schäff**:
-Fiona’s emphasis is on the logistics as well and she handles the TDP together with Dalea, too. If help is needed with the hardware, she lends a hand. She overlookes the whole team.
-
-- **Lino Odenbach**:
-Lino’s job is to work on the hardware with Florian Schäff and constructing the robot.
-
-- **Christopher Zech**:
-Since he is quite talented and interested in math and programming, he focuses on all the informatics and mathematical aspects as well as programming and the software. He works closely together with Jonas.
 
 
 ![german_open_robots](../assets/german_open_robots.jpg)
