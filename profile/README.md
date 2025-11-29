@@ -3,8 +3,6 @@
 --- 
 ![Logo](../assets/logo.jpg)
 
-Welcome to the GitHub account of **WGG Robotics**, the student robotics team of **Willibald-Gluck-Gymnasium Neumarkt (Germany)**.
-
 We design, build and program our own mobile robots and compete in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** and other robotics events.
 
 For full documentation, please visit our  **[WGG Robotics Documentation Wiki](https://github.com/wggRobotic/team-docs/wiki).**
@@ -37,7 +35,8 @@ We currently work on several robots and test platforms:
 - **[“noname” – SLAM Test Platform](https://github.com/wggRobotic/Team-Docs/wiki/SLAM-Test-Platform-%E2%80%93-%22noname%22)**  
   Mobile base for testing sensors like LIDAR, depth cameras and AI vision for autonomous navigation.
 
-- **QUAC - Crawler**
+- **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/Quac-%E2%80%93-All-Terrain-Crawler)**
+  Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league.
 
 - **Further platforms**  
   We also experiment with additional robots and demo platforms in cooperation with universities and partners. 
