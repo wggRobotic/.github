@@ -30,60 +30,23 @@ More background: [About WGG Robotics](https://github.com/wggRobotic/team-docs/wi
 
 # Our Robots
 
-#### Everything we work on is available to the public
+We currently work on several robots and test platforms:
 
-As a team, we want to be as transparent as possible, so we have decided to make all our components and programmes available as open source. All important information and notes on hardware and software are stored on this Github. 
+- **N10 – RMRC Rover**  
+  Mars-style rover for the RoboCup RMRC league with rocker-bogie suspension and modular body.
 
-## N10 - Our rover
+- **Idefix – Quadruped Robo Dog**  
+  A four-legged robot dog inspired by Spot and SpotMicro, fully redesigned with new servos and mechanics.
 
-![n10](../assets/n10.jpg)
+- **“noname” – SLAM Test Platform**  
+  Mobile base for testing sensors like LIDAR, depth cameras and AI vision for autonomous navigation.
 
-___
+- **QUAC - Crawler**
 
-**For more Information** click here [N10](https://github.com/wggRobotic/N10-profile)
-___
-
-
-N10 is a rover like robot based on a rocker bogie design. The 6 Wheels can turn perpendicular to the ground. The 3-segment robotic arm lays ontop on the rover in its resting position. There, the camera mounted to its gripper can function as a rear camera while driving. The main / front camera is fixed to the first segment.
-
-N10 was our robot in the RoboCup World Championship 2024 in Eindhoven in the RMRC league (Rapidly Manufactured Robot Challenge). This was the first real competition for our newly founded team.
-
-The first version was designed and built in under two months, which led to several challenges along the way and multiple problems in the actual competition. Our previous TDM (Team Description Material) for Eindhoven and the original design are available via the following links:
-
-+ [TDM](https://github.com/wggRobotic/N10-Robot)
-+ [Hardware - Robot Design and Components](https://github.com/wggRobotic/CAD-Files-and-Components-N10)
+- **Further platforms**  
+  We also experiment with additional robots and demo platforms in cooperation with universities and partners. 
 
 
-The lessons we learned in Eindhoven were incorporated into our new rover design. We developed a completely new modular main body. While the rocker-bogie suspension remains largely the same, the adjustments to the models and a different 3D-printing method have significantly improved the durability of the parts. Additionally, both the robotic arm and gripper feature a new design.
-
-![n10_rendered](../assets/n10_rendered.png)
-
-All components, a list of the parts etc. can be found here: [N10_v.4.0](https://github.com/wggRobotic/CAD-Files-N10_version_4_0)
-
-Software is here:
-+ [Software - GUI](https://github.com/wggRobotic/guiniverse)
-+ [Software - Servocontroller](https://github.com/wggRobotic/n10_servocontroller)
-+ [Software - Motorcontroller](https://github.com/wggRobotic/edu_drive_ros2_mod)
-+ [Software - CamStreams](https://github.com/wggRobotic/GStreamerCamStreams)
-
-## Idefix - Our robodog
-
-___
-
-**For more Information** click here [Idefix](https://github.com/wggRobotic/Idefix-profile)
-___
-
-Together with Antonello and Raffael, the wggRobotics team had long wanted to build a robotic dog. This year (2024/2025), we finally made it happen! 
-
-Our insperiation came from [Spot](https://bostondynamics.com/products/spot/) by Boston Dynamics and the open-source project [SpotMicro](https://spotmicroai.readthedocs.io/en/latest/).  After initial tests during Consumenta 2024 in Nuremberg, we decided to redesign the dog and use different servo motors.
-
-And now, here is our Idefix!
-![idefix_rendered](../assets/idefix_rendered.png)
-
-All components, a list of the parts etc. can be found here: [Hardware](https://github.com/wggRobotic/CAD-Files-Idefix)
-
-Software here:
-[RoboDog](https://github.com/wggRobotic/Robodog)
 
 
 
