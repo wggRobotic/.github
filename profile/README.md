@@ -27,17 +27,6 @@ More background: [About WGG Robotics](https://github.com/wggRobotic/team-docs/wi
 ![german_open_robots](../assets/german_open_robots.jpg)
 (At the Robocup German Open 2025. The robots from left to right are N10, Idefix and our former SLAM-Teststation noname)
 
-## Our School
-
-![school](../assets/school.jpg)
-
-[Willibald-Gluck-Gymnasium Neumarkt](https://www.wgg-neumarkt.de/)
-
-Woffenbacher Straße 33
-
-92318 Neumarkt 
-
-Bavaria Germany
 
 # Our Robots
 
