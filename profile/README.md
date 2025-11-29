@@ -43,6 +43,12 @@ We currently work on several robots and test platforms:
   We also experiment with additional robots and demo platforms in cooperation with universities and partners. 
 
 
+# Sponsors & Partners
+
+We are very grateful for the support of our sponsors and partners, who help us build robots and participate in competitions like RoboCup.
+
+A full list of sponsors and partners can be found here:  
+
 
 
 
