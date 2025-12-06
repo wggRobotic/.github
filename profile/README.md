@@ -46,7 +46,14 @@ We currently work on several robots and test platforms:
 
 We are very grateful for the support of our sponsors and partners, who help us build robots and participate in competitions like RoboCup.
 
-A full list of sponsors and partners can be found here:  
+
+[<img width="503" height="80" alt="Siemens_AG" src="https://github.com/user-attachments/assets/17bdaa7b-56f8-4d31-bdab-8954016f60ef" />](https://www.siemens.com/de/de.html)
+[<img width="209" height="80" alt="Eduart" src="https://github.com/user-attachments/assets/18eeb707-d68c-4a9e-be43-5375195d0d3c" />](https://www.eduart-robotik.com/)
+[<img width="326" height="80" alt="TH Nuernberg" src="https://github.com/user-attachments/assets/14dcb114-26f0-4e10-9328-fe5dd9ea30eb" />](https://www.th-nuernberg.de/)
+[<img width="402" height="80" alt="Faulhaber" src="https://github.com/user-attachments/assets/5b496453-b411-441f-a86c-b7ee31c4953f" />](https://www.faulhaber.com/de/ueber-uns/standorte/dr-fritz-faulhaber-gmbh-co-kg-de/)
+[<img width="201" height="80" alt="würth" src="https://github.com/user-attachments/assets/113931ae-0655-48e0-9bd2-109944e2f561" />](https://www.we-online.com/de)
+[<img width="152" height="80" alt="Dehn" src="https://github.com/user-attachments/assets/69840b9c-d9bc-4bf5-95da-11b98a54031a" />](https://www.dehn.de/de)
+[<img width="256" height="80" alt="Raiffeisenbank" src="https://github.com/user-attachments/assets/0f46456a-ec16-49f8-beaa-a71978165b06" />](https://www.raiba-neumarkt-opf.de/startseite.html)
 
 
 
