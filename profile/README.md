@@ -12,7 +12,7 @@ For full documentation, please visit our  **[WGG Robotics Documentation Wiki](ht
 - **Team name:** WGG Robotics  
 - **School:** Willibald-Gluck-Gymnasium Neumarkt, Bavaria, Germany  
 - **Focus:** Rescue robotics, autonomous navigation, rovers, quadrupeds & crawlers  
-- **Members:** motivated students from different grades  
+- **Members:** motivated students from 12th grade
 - **Mentors:** teachers and external partners supporting hardware, software & project work
 
 
