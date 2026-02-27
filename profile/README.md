@@ -1,9 +1,9 @@
 ---
 # Welcome to the Github account of the robotics team from the Willibald Gluck Gymnasium Neumarkt (Germany).
 --- 
-![Logo](../assets/logo.jpg)
+![wgg_robotics_matrix_glitch_v11_web](https://github.com/user-attachments/assets/f39ae8f2-f29b-4587-b515-86e432b518e4)
 
-We design, build and program our own mobile robots and compete in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** and other robotics events.
+We design, build and program our own mobile robots and compete <br> in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** <br> and other robotics events.
 
 For full documentation, please visit our  **[WGG Robotics Documentation Wiki](https://github.com/wggRobotic/team-docs/wiki).**
 
@@ -43,6 +43,7 @@ We currently work on several robots and test platforms:
 
 
 # Sponsors & Partners
+![wgg_robotics_matrix_glitch_v11_web](https://github.com/user-attachments/assets/d7a30cab-1516-4204-a8b1-48f3874004b7)
 
 We are very grateful for the support of our sponsors and partners, who help us build robots and participate in competitions like RoboCup.
 
