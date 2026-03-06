@@ -32,11 +32,11 @@ We currently work on several robots and test platforms:
 - **[Idefix – Quadruped Robo Dog](https://github.com/wggRobotic/Team-Docs/wiki/Idefix-%E2%80%93-Quadruped-Robo-Dog)**  
   A four-legged robot dog inspired by Spot and SpotMicro, fully redesigned with new servos and mechanics.
 
-- **[“noname” – SLAM Test Platform](https://github.com/wggRobotic/Team-Docs/wiki/SLAM-Test-Platform-%E2%80%93-%22noname%22)**  
-  Mobile base for testing sensors like LIDAR, depth cameras and AI vision for autonomous navigation.
-
 - **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/Quac-%E2%80%93-All-Terrain-Crawler)**
   Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league.
+
+- **[“noname” – SLAM Test Platform](https://github.com/wggRobotic/Team-Docs/wiki/SLAM-Test-Platform-%E2%80%93-%22noname%22)**  
+  Mobile base for testing sensors like LIDAR, depth cameras and AI vision for autonomous navigation.
 
 - **Further platforms**  
   We also experiment with additional robots and demo platforms in cooperation with universities and partners. 
