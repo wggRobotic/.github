@@ -43,8 +43,6 @@ We currently work on several robots and test platforms:
 
 
 # Sponsors & Partners
-![wgg_robotics_matrix_glitch_v11_web](https://github.com/user-attachments/assets/d7a30cab-1516-4204-a8b1-48f3874004b7)
-
 We are very grateful for the support of our sponsors and partners, who help us build robots and participate in competitions like RoboCup.
 
 
