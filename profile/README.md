@@ -2,7 +2,7 @@
 # Welcome to the Github account of the robotics team from the Willibald Gluck Gymnasium Neumarkt (Germany).
 --- 
 
-![wgg_robotics_logo](https://github.com/user-attachments/assets/cc154ff1-1241-424d-a3da-35c38a32e3d7)
+![wgg_robotics_logo_cropped](https://github.com/user-attachments/assets/0a78efb2-ed73-4ba1-abd9-49bd88f4187f)
 
 We design, build and program our own mobile robots and compete <br> in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** <br> and other robotics events.
 
