@@ -4,7 +4,7 @@
 
 ![wgg_robotics_logo_cropped](https://github.com/user-attachments/assets/0a78efb2-ed73-4ba1-abd9-49bd88f4187f)
 
-We design, build and program our own mobile robots and compete in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** <br> and other robotics events.
+We design, build and program our own mobile robots and compete in the **RoboCup Rescue / Rapidly Manufactured Robot Challenge (RMRC)** and other robotics events.
 
 For full documentation, please visit our  **[WGG Robotics Documentation Wiki](https://github.com/wggRobotic/team-docs/wiki).**
 
