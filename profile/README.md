@@ -25,16 +25,18 @@ More background [About WGG Robotics](https://github.com/wggRobotic/team-docs/wik
 # Our Robots
 ![Screenshot 2025-11-29 131448](https://github.com/user-attachments/assets/a2da6082-a940-4a21-82be-dac9989af3e5)
 
-We currently work on several robots and test platforms:
+Our current projects: 
 
-- **[N10 – RMRC Rover](https://github.com/wggRobotic/Team-Docs/wiki/N10-%E2%80%93-RMRC-Rover)**  
-  Mars-style rover for the RoboCup RMRC league with rocker-bogie suspension and modular body.
+- **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/Quac-%E2%80%93-All-Terrain-Crawler)** <br>
+  Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league.
 
 - **[Idefix – Quadruped Robo Dog](https://github.com/wggRobotic/Team-Docs/wiki/Idefix-%E2%80%93-Quadruped-Robo-Dog)**  
   A four-legged robot dog inspired by Spot and SpotMicro, fully redesigned with new servos and mechanics.
 
-- **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/Quac-%E2%80%93-All-Terrain-Crawler)**
-  Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league.
+Former projects:
+
+- **[N10 – RMRC Rover](https://github.com/wggRobotic/Team-Docs/wiki/N10-%E2%80%93-RMRC-Rover)**  
+  Mars-style rover for the RoboCup RMRC league with rocker-bogie suspension and modular body.
 
 - **[“noname” – SLAM Test Platform](https://github.com/wggRobotic/Team-Docs/wiki/SLAM-Test-Platform-%E2%80%93-%22noname%22)**  
   Mobile base for testing sensors like LIDAR, depth cameras and AI vision for autonomous navigation.
