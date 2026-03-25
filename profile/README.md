@@ -56,9 +56,9 @@ We are very grateful for the support of our sponsors and partners, who help us b
 [<img width="152" height="80" alt="Dehn" src="https://github.com/user-attachments/assets/69840b9c-d9bc-4bf5-95da-11b98a54031a" />](https://www.dehn.de/de)
 [<img width="256" height="80" alt="Raiffeisenbank" src="https://github.com/user-attachments/assets/0f46456a-ec16-49f8-beaa-a71978165b06" />](https://www.raiba-neumarkt-opf.de/startseite.html)
 [<img width="147" height="80" alt="logo" src="https://github.com/user-attachments/assets/f871d7fd-87cf-417f-bf9b-79b17e912b25" />](https://www.nxtgn.de/)
-[<img width="150" height="80" alt="IMG_2762" src="https://github.com/user-attachments/assets/50a055fb-639a-42c5-84fe-e8d8a9071403" />](https://www.landkreis-neumarkt.de/)
+[<img width="73" height="80" alt="Landkreis_Wappen" src="https://github.com/user-attachments/assets/51d1e08c-660e-41ea-8841-1c836c26243d" />](https://www.landkreis-neumarkt.de/)
 [<img width="371" height="80" alt="Logo_Neumarkt" src="https://github.com/user-attachments/assets/a4aaf989-07d5-4b15-9449-04d2d4e13a54" />](https://www.neumarkt.de/)
-
+[<img width="227" height="80" alt="Regina" src="https://github.com/user-attachments/assets/9bdb2c37-de44-4bdf-9d17-3a1a14c6349c" />](https://www.reginagmbh.de/)
 
 
 
