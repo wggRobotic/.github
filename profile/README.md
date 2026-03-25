@@ -57,7 +57,7 @@ We are very grateful for the support of our sponsors and partners, who help us b
 [<img width="256" height="80" alt="Raiffeisenbank" src="https://github.com/user-attachments/assets/0f46456a-ec16-49f8-beaa-a71978165b06" />](https://www.raiba-neumarkt-opf.de/startseite.html)
 [<img width="171" height="80" alt="IMG_2761" src="https://github.com/user-attachments/assets/db5e17e9-019e-4344-bd8c-7a74507e79d4" />](https://www.nxtgn.de/)
 [<img width="150" height="80" alt="IMG_2762" src="https://github.com/user-attachments/assets/50a055fb-639a-42c5-84fe-e8d8a9071403" />](https://www.landkreis-neumarkt.de/)
-[![IMG_2763](https://github.com/user-attachments/assets/ac85b102-9d06-4b4f-84a6-2f5f9ef4b075)](https://www.neumarkt.de/)
+[<img width="371" height="80" alt="Logo_Neumarkt" src="https://github.com/user-attachments/assets/a4aaf989-07d5-4b15-9449-04d2d4e13a54" />](https://www.neumarkt.de/)
 
 
 
