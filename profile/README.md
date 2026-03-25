@@ -28,7 +28,7 @@ More background [About WGG Robotics](https://github.com/wggRobotic/team-docs/wik
 Our current projects: 
 
 - **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/Quac-%E2%80%93-All-Terrain-Crawler)** <br>
-  Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league. In case of **Robocup Incheon 2026** we plan to participate with this robot. 
+  Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league. We participate with tis robot at **RoboCup 2026 Incheon**.
 
 - **[Idefix – Quadruped Robo Dog](https://github.com/wggRobotic/Team-Docs/wiki/Idefix-%E2%80%93-Quadruped-Robo-Dog)**  
   A four-legged robot dog inspired by Spot and SpotMicro, fully redesigned with new servos and mechanics.
