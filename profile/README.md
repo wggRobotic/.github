@@ -23,7 +23,9 @@ More background [About WGG Robotics](https://github.com/wggRobotic/team-docs/wik
 
 
 # Our Robots
-![Screenshot 2025-11-29 131448](https://github.com/user-attachments/assets/a2da6082-a940-4a21-82be-dac9989af3e5)
+
+<img width="30%" src="https://github.com/user-attachments/assets/946d2e5f-aefb-4c9e-b3f2-185138c61d63" />
+<img width="65%" src="https://github.com/user-attachments/assets/a2da6082-a940-4a21-82be-dac9989af3e5" />
 
 Our current projects: 
 
