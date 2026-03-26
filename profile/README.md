@@ -18,7 +18,7 @@ For full documentation, please visit our  **[WGG Robotics Documentation Wiki](ht
 
 
 We mainly work in our school’s **Makerspace**, using 3D printers, electronics and CAD/simulation tools to prototype and improve our robots.
-More background [About WGG Robotics](https://github.com/wggRobotic/team-docs/wiki/About-WGG-Robotics)
+More background [About WGG Robotics](https://github.com/wggRobotic/team-docs/wiki#1-About-WGG-Robotics)
 
 
 
