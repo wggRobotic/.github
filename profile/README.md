@@ -18,7 +18,7 @@ For full documentation, please visit our  **[WGG Robotics Documentation Wiki](ht
 
 
 We mainly work in our school’s **Makerspace**, using 3D printers, electronics and CAD/simulation tools to prototype and improve our robots.
-More background [About WGG Robotics](https://github.com/wggRobotic/Team-Docs/wiki/(A)-About-WGG-Robotics)
+More background [About WGG Robotics](https://github.com/wggRobotic/Team-Docs/wiki/1.-About-WGG-Robotics)
 
 
 
@@ -30,18 +30,18 @@ More background [About WGG Robotics](https://github.com/wggRobotic/Team-Docs/wik
 
 Our current projects: 
 
-- **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/Quac-%E2%80%93-All-Terrain-Crawler)** <br>
+- **[QUAC - Crawler](https://github.com/wggRobotic/Team-Docs/wiki/4.-Quac-%E2%80%93-All-Terrain-Crawler)** <br>
   Quac (Quad-Wheel All-Terrain Crawler) is our new all-terrain robot platform for the RoboCup RMRC league. We participate with tis robot at **RoboCup 2026 Incheon**.
 
-- **[Idefix – Quadruped Robo Dog](https://github.com/wggRobotic/Team-Docs/wiki/Idefix-%E2%80%93-Quadruped-Robo-Dog)**  
+- **[Idefix – Quadruped Robo Dog](https://github.com/wggRobotic/Team-Docs/wiki/5.-Idefix-%E2%80%93-Quadruped-Robo-Dog)**  
   A four-legged robot dog inspired by Spot and SpotMicro, fully redesigned with new servos and mechanics.
 
 Former projects:
 
-- **[N10 – RMRC Rover](https://github.com/wggRobotic/Team-Docs/wiki/N10-%E2%80%93-RMRC-Rover)**  
+- **[N10 – RMRC Rover](https://github.com/wggRobotic/Team-Docs/wiki/6.-N10-%E2%80%93-RMRC-Rover)**  
   Mars-style rover for the RoboCup RMRC league with rocker-bogie suspension and modular body.
 
-- **[“noname” – SLAM Test Platform](https://github.com/wggRobotic/Team-Docs/wiki/SLAM-Test-Platform-%E2%80%93-%22noname%22)**  
+- **[“noname” – SLAM Test Platform](https://github.com/wggRobotic/Team-Docs/wiki/7.-SLAM-Test-Platform-%E2%80%93-%22noname%22)**  
   Mobile base for testing sensors like LIDAR, depth cameras and AI vision for autonomous navigation.
 
 - **Further platforms**  
