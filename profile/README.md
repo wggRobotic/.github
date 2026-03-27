@@ -8,6 +8,8 @@ We design, build and program our own mobile robots and compete in the **RoboCup 
 
 For full documentation, please visit our  **[WGG Robotics Documentation Wiki](https://github.com/wggRobotic/team-docs/wiki).**
 
+For more information about the team and background insights, check out our Instagram account: https://www.instagram.com/wgg_robotic/
+
 ## Who we are
 
 - **Team name:** WGG Robotics  
